@@ -10,5 +10,5 @@ In the Summer of 2022, I interned at Invenics in London, United Kingdom as a Tec
 
 I am currently working on reducing Vortex-induced Vibrations in Spar Platforms in deep water conditions.
 
-## <center>A photo of the view from my Office in London</center>
+## <center>The view from my office in London</center>
 ![Picture](/assets/images/Office_View.jpeg)
