@@ -1,6 +1,6 @@
 ---
 title: Hello There!
-date: 2022/11/03 11:40pm 
+date: 03/11/2022 11:40pm 
 ---
 
 # Hello There!
@@ -9,8 +9,9 @@ Hello, and welcome to my personal website! This website was made due to my frust
 
 I also plan on hosting my notes and resources in case someone finds them useful. Although most of them will be for my 4th Year Courses.
 
-Immediately I will be uploading my notes for the following courses:-
+I will be uploading my notes for the following courses:-
 
 * CE 401: Water Resource Engineering
 * CE 463: Introduction to Probability & Statistics
 * CE 410: Introduction to Offshore Engineering
+* CE 407: Foundation Engineering
